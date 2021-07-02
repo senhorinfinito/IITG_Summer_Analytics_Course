@@ -37,7 +37,8 @@ week 2 : [assignment]()
 
 
 3. Week 3 :Model Tuning
-        - Generalization
+
+         - Generalization
 
         - Overfittiing & Underfitting
 
@@ -66,13 +67,13 @@ week 4: [assignment]()
 
 5. Week 5 : Neural Networks
       
-      - Introduction to Deep Learning
+          - Introduction to Deep Learning
       
-      - Unsupervised Learning
+         -   Unsupervised Learning
       
-      - Dimensionality Reduction
+         - Dimensionality Reduction
       
-      - K-Means Clustering
+         - K-Means Clustering
 
 week 5 : [assignment]()
 
@@ -80,9 +81,9 @@ week 5 : [assignment]()
 
 6. Week 6 : Hackathon
      
-     - Hackathon Based
+         - Hackathon Based
      
-     - Buffer period
+         - Buffer period
 
 
 week 6: [project]()
