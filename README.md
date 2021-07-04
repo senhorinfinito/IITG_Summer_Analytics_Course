@@ -2,8 +2,9 @@
 This is a  course work repository. All material in this repository is subjected to summer analytics club, IIT Guhawati. 
 
 
-Course Link : [summer_analytics](g.ac.in/sa/caciitg/course/)
+Course Link : [summer_analytics](http://iitg.ac.in/sa/caciitg/course/)
 
+![photo](https://github.com/senhorinfinito/readme_files/blob/main/IITG_summer_analytics/summer_analytics_course_logo.jpg)
 #Files 
 1. Week 1  : Intro To Python & Python Libraries
 
@@ -16,7 +17,7 @@ Course Link : [summer_analytics](g.ac.in/sa/caciitg/course/)
          - Data Analysis & Visualisations in Python
 
 
-Week 1  : [assignment]()
+Week 1  : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%201/SA2021_W1_solutions.ipynb)
 
 2. Week 2:  ML Algorithms
 
@@ -32,7 +33,7 @@ Week 1  : [assignment]()
         - Cost Function & Gradient Descent
 
 
-week 2 : [assignment]()
+week 2 : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%202/SA2021_W2_solutions.ipynb)
 
 
 
@@ -48,7 +49,7 @@ week 2 : [assignment]()
         
         - Evaluation Metrics
         
-week 3 : [assignment]()
+week 3 : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%203/SA2021_W3_solutions.ipynb)
 
 4. Week 4 : Tree-Based Algorithms
         
@@ -60,10 +61,10 @@ week 3 : [assignment]()
         
         - Hyperparamter Tuning
 
-week 4: [assignment]()
+week 4: [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%204/SA2021_W4_solutions.ipynb)
 
 
-### Week 5 will be updated on 5th of July 2021.
+### Week 5 will be updated on 7th of July 2021.
 
 5. Week 5 : Neural Networks
       
@@ -75,9 +76,9 @@ week 4: [assignment]()
       
          - K-Means Clustering
 
-week 5 : [assignment]()
+week 5 : [assignment]() - Link will be updated soon
 
-### Week 6 capstone project will update on 11th july 2021
+### Week 6 capstone project will update on 15th july 2021
 
 6. Week 6 : Hackathon
      
@@ -86,7 +87,7 @@ week 5 : [assignment]()
          - Buffer period
 
 
-week 6: [project]()
+week 6: [project]()  -Link will be updated soon
 
       
       
