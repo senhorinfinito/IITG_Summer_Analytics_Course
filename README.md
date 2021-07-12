@@ -4,7 +4,7 @@ This is a  course work repository. All material in this repository is subjected 
 
 Course Link : [summer_analytics](http://iitg.ac.in/sa/caciitg/course/)
 
-![photo](https://github.com/senhorinfinito/readme_files/blob/main/IITG_summer_analytics/summer_analytics_course_logo.jpg)
+![photo](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/summer_analytics_course_logo.jpg)
 #Files 
 1. Week 1  : Intro To Python & Python Libraries
 
