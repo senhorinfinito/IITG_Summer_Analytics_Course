@@ -64,8 +64,6 @@ week 3 : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Co
 week 4: [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%204/SA2021_W4_solutions.ipynb)
 
 
-### Week 5 will be updated on 7th of July 2021.
-
 5. Week 5 : Neural Networks
       
           - Introduction to Deep Learning
@@ -76,9 +74,9 @@ week 4: [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Cou
       
          - K-Means Clustering
 
-week 5 : [assignment]() - Link will be updated soon
+week 5 : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%205/SA2021_W5/Logistic_Regression_with_a_Neural_Network_mindset.ipynb) - Link will be updated soon
 
-### Week 6 capstone project will update on 15th july 2021
+### Week 6 capstone project will update on 14th july 2021
 
 6. Week 6 : Hackathon
      
