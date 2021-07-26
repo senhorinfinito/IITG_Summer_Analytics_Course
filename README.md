@@ -1,10 +1,15 @@
 # IITG_Summer_Analytics_Course
 This is a  course work repository. All material in this repository is subjected to summer analytics club, IIT Guhawati. 
 
+.com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true)
+
+
+![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/IITG_Summer_Analytics_Course.svg?cache=remove)
+
 
 Course Link : [summer_analytics](http://iitg.ac.in/sa/caciitg/course/)
 
-![photo](https://github.com/senhorinfinito/readme_files/blob/main/IITG_summer_analytics/summer_analytics_course_logo.jpg)
+![photo](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/summer_analytics_course_logo.jpg)
 #Files 
 1. Week 1  : Intro To Python & Python Libraries
 
@@ -64,8 +69,6 @@ week 3 : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Co
 week 4: [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%204/SA2021_W4_solutions.ipynb)
 
 
-### Week 5 will be updated on 7th of July 2021.
-
 5. Week 5 : Neural Networks
       
           - Introduction to Deep Learning
@@ -76,9 +79,9 @@ week 4: [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Cou
       
          - K-Means Clustering
 
-week 5 : [assignment]() - Link will be updated soon
+week 5 : [assignment](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/week%205/SA2021_W5/Logistic_Regression_with_a_Neural_Network_mindset.ipynb) - Link will be updated soon
 
-### Week 6 capstone project will update on 15th july 2021
+### Week 6 capstone project will update on 14th july 2021
 
 6. Week 6 : Hackathon
      
