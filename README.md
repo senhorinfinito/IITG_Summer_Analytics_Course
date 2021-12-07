@@ -7,7 +7,7 @@ This is a  course work repository. All material in this repository is subjected 
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/IITG_Summer_Analytics_Course.svg?cache=remove)
 
 
-Course Link : [summer_analytics](http://iitg.ac.in/sa/caciitg/course/)
+***Course Link : [summer_analytics](http://iitg.ac.in/sa/caciitg/course/)***
 
 ![photo](https://github.com/senhorinfinito/IITG_Summer_Analytics_Course/blob/main/summer_analytics_course_logo.jpg)
 
