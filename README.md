@@ -1,9 +1,7 @@
 # IITG_Summer_Analytics_Course
 This is a  course work repository. All material in this repository is subjected to summer analytics club, IIT Guhawati. 
 
-.com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true)
-
-
+<!-- .com/senhorinfinito/scrappers/blob/main//data_scrapper.png?raw=true) -->
 ![ViewCount](https://views.whatilearened.today/views/github/senhorinfinito/IITG_Summer_Analytics_Course.svg?cache=remove)
 
 
